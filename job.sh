@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH -t 99:00:00
+#SBATCH -t 60:00:00
 #SBATCH -N 1
 #SBATCH --mail-user=florisdenhengst@gmail.com
 #SBATCH --mail-type=ALL
